@@ -20,6 +20,7 @@ The BetterSimulation.cpp program will perform a minute-by-minute customer servic
                  6. The clock time at which new arrivals stop, in min (>0, whole number)
 
 When the BetterSimulation.cpp program compiles and begins, each minute's output will include the following:
+     
      - The clock time -- that is, the amount of time since the start of the simulation -- in minutes (whole number)
      - A visual representation of the wait queue
 
