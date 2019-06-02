@@ -11,6 +11,7 @@ In this program, I made use of the Priority Queue and Queue header files that I 
 NOTE: IT IS ESSENTIAL THAT THE FOLLOWING VALUES WRITTEN IN THE simulation.txt FILE MEET THESE REQUIREMENTS. 
 
 The BetterSimulation.cpp program will perform a minute-by-minute customer service simulation based on 6 inputs written prior by the user (from a text file, simulation.txt, as numbers only, one per line, in this order):
+                
                  1. The number of servers/employees (1 or more, whole number)
                  2. The average arrival rate of customers, per minute (> 0.0, floating point)
                  3. The maximum length of the wait queue; the waiting line (>1, whole number)
