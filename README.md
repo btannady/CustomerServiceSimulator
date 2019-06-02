@@ -2,7 +2,8 @@
 
 Hi,
 
-This is my Customer Service Runtime Simulator!
+This is my Customer Service Runtime Simulator! 
+Please make sure to download the entire folder, consisting of BetterSimulation.cpp, PriorityQueue.h, DynamicArray.h, Queue.h, and a text file called simulation.txt.
 
 In this program, I made use of the Priority Queue and Queue header files that I made so I could manage this program's concept.
 
@@ -20,5 +21,6 @@ Each minute's output will include the following:
 - The clock time -- that is, the amount of time since the start of the simulation -- in minutes (whole number)
 - A visual representation of the wait queue
 
+ALSO NOTE:
 
 
