@@ -3,7 +3,7 @@
 Hi,
 
 This is my Customer Service Runtime Simulator! 
-Please make sure to download the entire folder, consisting of BetterSimulation.cpp, PriorityQueue.h, DynamicArray.h, Queue.h, and a text file called simulation.txt. Also, make sure all six files are within the same directory.
+Please make sure to download the entire folder, consisting of BetterSimulation.cpp, PriorityQueue.h, DynamicArray.h, Queue.h, and a text file called simulation.txt. Also, make sure all five files are within the same directory.
 
 In this program, I made use of the Priority Queue and Queue header files that I made so I could manage this program's concept.
 
