@@ -8,7 +8,7 @@ Please make sure to download the entire folder, consisting of BetterSimulation.c
 In this program, I made use of the Priority Queue and Queue header files that I made so I could manage this program's concept.
 
 ------------------------------------------------------------------------------------------------------------------------------
-NOTE: IT IS ESSENTIAL THAT THE FOLLOWING VALUES WRITTEN IN THE simulation.txt FILE MEET THESE REQUIREMENTS. 
+NOTE: It is essential that the values written in the simulation.txt file meet these following requirements.
 
 The BetterSimulation.cpp program will perform a minute-by-minute customer service simulation based on 6 inputs written prior by the user (from a text file, simulation.txt, as numbers only, one per line, in this order):
                 
@@ -25,7 +25,7 @@ When the BetterSimulation.cpp program compiles and begins, each minute's output 
      - A visual representation of the wait queue
 
 ------------------------------------------------------------------------------------------------------------------------------
-ALSO NOTE: 
+ALSO NOTE (For Xcode users): 
 If you are on Xcode, you may need to go to Product > Scheme > Edit Scheme > Run test (on the right) > Options (middle top). Down under Options check “Use custom working directory” and set it to the directory where your .txt file is located. Sometimes Xcode has trouble locating the .txt file even though it is correctly in the same directory as the .cpp file.
 
 
