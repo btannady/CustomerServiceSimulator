@@ -1,8 +1,9 @@
 # CustomerServiceSimulator
 
-Hi,
+This is my Customer Service Traffic-Flow Simulator! 
 
-This is my Customer Service Runtime Simulator! 
+A minute-by-minute simulation based on 6 inputs (within the attached simulation.txt file) is performed through C++ programming. The simulation should pause after each minute's summary is outputted onto the console, enabling the user to press ENTER to continue to the view the next minute's visualizations.
+
 Please make sure to download the entire folder, consisting of BetterSimulation.cpp, PriorityQueue.h, DynamicArray.h, Queue.h, and a text file called simulation.txt. Also, make sure all five files are within the same directory.
 
 In this program, I made use of the Priority Queue and Queue header files that I made so I could manage this program's concept.
