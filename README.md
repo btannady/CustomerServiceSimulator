@@ -25,7 +25,7 @@ When the BetterSimulation.cpp program compiles and begins, each minute's output 
      - A visual representation of the wait queue
 
 ------------------------------------------------------------------------------------------------------------------------------
-ALSO NOTE (For Xcode users): 
+(For Xcode users): 
 If you are on Xcode, you may need to go to Product > Scheme > Edit Scheme > Run test (on the right) > Options (middle top). Down under Options check “Use custom working directory” and set it to the directory where your .txt file is located. Sometimes Xcode has trouble locating the .txt file even though it is correctly in the same directory as the .cpp file.
 
 
